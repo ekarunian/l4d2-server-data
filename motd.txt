@@ -1,1 +1,3 @@
-試験サーバーです
+left4dead2サーバー用のDockerイメージを作り、GCE上でとにかく動かしてみた
+https://qiita.com/ekaru/items/5dd28d74ac7b293642ad
+の手順に従って生成されたサーバーです。
